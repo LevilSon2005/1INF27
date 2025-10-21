@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Clase_Sube_Y_Baja" targetName="Clase_Sube_Y_Baja" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60df0e87-a11a-43eb-9b98-16238049c6a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/BibliotecaCola/Cola.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/BibliotecaCola/ElementoCola.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/BibliotecaCola/NodoCola.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/BibliotecaCola/funcionesCola.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/BibliotecaCola/funcionesCola.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/.idea/Cola_2_prioridades.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/BibliotecaCola/Cola.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/BibliotecaCola/ElementoCola.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/BibliotecaCola/NodoCola.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/BibliotecaCola/funcionesCola.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/BibliotecaCola/funcionesCola.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/Cola/Cola_2_prioridades/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/FuerzaBruta/EjercicioMultimochila/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/FuerzaBruta/EjercicioMultimochila/.idea/EjercicioMultimochila.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/FuerzaBruta/EjercicioMultimochila/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/FuerzaBruta/EjercicioMultimochila/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/FuerzaBruta/EjercicioMultimochila/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/FuerzaBruta/EjercicioMultimochila/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/FuerzaBruta/EjercicioMultimochila/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/FuerzaBruta/EjercicioMultimochila/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectId" id="34L0suCZngFgEgWlvBSBUSLMXcd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.Clase_Sube_Y_Baja.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Clase_Sube_Y_Baja" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Clase_Sube_Y_Baja" TARGET_NAME="Clase_Sube_Y_Baja" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Clase_Sube_Y_Baja" RUN_TARGET_NAME="Clase_Sube_Y_Baja">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60df0e87-a11a-43eb-9b98-16238049c6a0" name="Changes" comment="" />
+      <created>1760977754970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760977754970</updated>
+      <workItem from="1760977756233" duration="3291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="arr[medio+1]" language="C++" />
+        <watch expression="arr[inicio]" language="C++" />
+        <watch expression="arr[medio]" language="C++" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
