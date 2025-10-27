@@ -49,7 +49,7 @@ void Merge(int *arr, int n, int inicio_1, int fin_1,int inicio_2, int fin_2) {
     if (j == longitud2) for (;i<longitud1;i++) aux_total[k++] = arr[i];
 
     //TODO: Pasamos el arr_total al arreglo real
-    k=0;
+    k=inicio_1;
     for (int m=0;m<longitud_total;m++) {
         arr[k++] = aux_total[m];
     }
