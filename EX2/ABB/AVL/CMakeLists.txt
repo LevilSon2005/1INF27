@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 4.0)
+project(AVL)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(AVL main.cpp
+        TAD.hpp
+        funciones.cpp
+        funciones.hpp
+)
